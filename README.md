@@ -52,6 +52,6 @@ citation metadata.
 
 ## Running it
 
-`clojure -M:test` (3 tests, 17 assertions: reference semantics, restricted
+`kbb -M:test` (3 tests, 17 assertions: reference semantics, restricted
 JavaScript, instantiated typed WebAssembly, source authority) and
-`clojure -M:lint`.
+`kbb -M:lint`.
